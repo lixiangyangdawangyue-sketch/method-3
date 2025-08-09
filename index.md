@@ -153,24 +153,24 @@ A particular insured is expected to experience a first-year mortality rate ten t
 ---
 
 **13.** You are given the following mortality probabilities for ages x to $x+3$ for calendar year C.
-$q_{x}=.05$, $q_{x+1}=.08$, $q_{x+2}=.12$, $q_{x+3}=.2$.
-R is the value of ${}_{4}p_{x}$ without mortality improvement factors and S is the value of ${}_{4}p_{x}$ with mortality improvement factors, assuming a constant mortality improvement factor $\phi_{x}=.1$ for all r. Calculate $\frac{R}{S}$.
+$q_{x}=0.05$, $q_{x+1}=0.08$, $q_{x+2}=0.12$, $q_{x+3}=0.2$.
+R is the value of ${}_{4}p_{x}$ without mortality improvement factors and S is the value of ${}_{4}p_{x}$ with mortality improvement factors, assuming a constant mortality improvement factor $\phi_{x}=0.1$ for all r. Calculate $\frac{R}{S}$.
 
-- A) Less than 0.800
-- B) At least 0.800 but less than 0.825
-- C) At least .825 but less than 0.850
-- D) At least 0.850 but less than 0.875
-- E) At least 0.875
+*   A) Less than 0.800
+*   B) At least 0.800 but less than 0.825
+*   C) At least 0.825 but less than 0.850
+*   D) At least 0.850 but less than 0.875
+*   E) At least 0.875
 
 ---
 
 **15.** A mortality model has constant mortality probability $q_{y}=q$ for all y. The annual effective rate of interest is $i$. A 10-year fully discrete term insurance with face amount 1 is issued to (x). Find $\sum_{k=1}^{10} {}_{k}V$ for this policy in terms of $q$ and $i$.
 
-- A) 0
-- B) 10q
-- C) $a_{\overline{10}|i}$
-- D) $a_{x:\overline{10}|}$
-- E) 10vq
+*   A) 0
+*   B) 10q
+*   C) $a_{\overline{10}|i}$
+*   D) $a_{x:\overline{10}\\|}$
+*   E) 10vq
 
 ---
 
