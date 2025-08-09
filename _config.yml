@@ -1,3 +1,5 @@
 title: Question and Solution
 description: Website containing relevant exercises and answers
 theme: jekyll-theme-minimal
+
+markdown: GFM
