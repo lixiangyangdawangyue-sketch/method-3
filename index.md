@@ -1,6 +1,8 @@
 # Question
 ---
 
+[Click here to view the answer.](./solution.html)
+
 **1.** For a fully discrete whole life insurance of 1000 on (x):
 
 - (i) Death is the only decrement.
