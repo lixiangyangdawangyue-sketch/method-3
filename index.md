@@ -92,7 +92,8 @@ Calculate the median value of $L$.
 
 - (ii) $i=.03$
 
-Calculate $_{2|}A_{[60]:\overline{2}|}$, the actuarial present value of a 2-year deferred 2-year endowment insurance on [60].
+Calculate $ {}_{2|}A_{[60]:\overline{2}|} $, the actuarial present value of a 2-year deferred 2-year endowment insurance on [60].
+
 
 - A) .66
 - B) .68
